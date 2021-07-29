@@ -7,7 +7,7 @@ export default class AppSearchPanel extends React.Component {
 
     render() {
         return (
-            <form method="GET" action="/search" className="search-panel">
+            <form method="GET" action="#/search" className="search-panel">
                 <input 
                     onChange={this.handleChange} 
                     type="text"

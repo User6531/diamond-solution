@@ -7,7 +7,7 @@ export default class Card extends React.Component {
     render() {
         const {poster_path, title, original_title, overview, vote_average, release_date, id} = this.props;
         const imgPath = `https://image.tmdb.org/t/p/w500/${poster_path}`;
-        const path = `/movie/${id}`;
+        const path = `#/movie/${id}`;
 
         return (
                 <>
