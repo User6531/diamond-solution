@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/diamond-solution/static/css/main.2a692698.chunk.css",
-    "main.js": "/diamond-solution/static/js/main.650f73a8.chunk.js",
-    "main.js.map": "/diamond-solution/static/js/main.650f73a8.chunk.js.map",
+    "main.js": "/diamond-solution/static/js/main.0063c0f3.chunk.js",
+    "main.js.map": "/diamond-solution/static/js/main.0063c0f3.chunk.js.map",
     "runtime-main.js": "/diamond-solution/static/js/runtime-main.0c48ca1d.js",
     "runtime-main.js.map": "/diamond-solution/static/js/runtime-main.0c48ca1d.js.map",
     "static/js/2.a1c38d15.chunk.js": "/diamond-solution/static/js/2.a1c38d15.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0c48ca1d.js",
     "static/js/2.a1c38d15.chunk.js",
     "static/css/main.2a692698.chunk.css",
-    "static/js/main.650f73a8.chunk.js"
+    "static/js/main.0063c0f3.chunk.js"
   ]
 }
