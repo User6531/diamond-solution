@@ -1,0 +1,51 @@
+.film-img-page {
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all .2s ease;
+}
+.film-img-page:hover{
+    box-shadow: 0 0 20px #345172;
+}
+.film-header-page {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.film-title-page {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+    margin-right: 10px;
+    cursor: pointer;
+    display: block;
+}
+.film-subtitle-page {
+    margin-top: 5px;
+    font-size: 10px;
+    color: rgb(228, 228, 228);
+    display: block;
+}
+.film-vote-page {
+    font-weight: 700;
+    color: #2bcdd3;
+    font-size: 36px;
+}
+.film-descriprtion-page {
+    font-size: 12px;
+}
+.film-date {
+    margin-top: 10px;
+    font-size: 10px;
+    color: rgb(228, 228, 228);
+    text-decoration: underline;
+}
+.film-link-page {
+    color: inherit;
+    display: block;
+}

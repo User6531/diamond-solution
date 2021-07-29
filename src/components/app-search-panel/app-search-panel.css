@@ -1,0 +1,23 @@
+.search-panel {
+  margin: 30px auto;
+  height: 50px;
+  background-color: #2bcdd3;
+
+
+  display: flex;
+  padding: 3px;
+  border-radius: 5px;
+}
+.search-input {
+  flex-grow: 1;
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding: 0 22px;
+}
+.search-button {
+  background-color: #2bcdd3;
+
+  padding: 0 30px;
+  color: white;
+  font-size: 16px;
+}

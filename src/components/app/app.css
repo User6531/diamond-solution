@@ -1,0 +1,19 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.main-button {
+    color: inherit;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: #2bcdd3;
+
+    display: block;
+    padding: 10px 30px;
+    margin: 0 auto;
+    width: 120px;
+
+    text-align: center;
+    margin-top: 30px;
+}
+
